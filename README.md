@@ -53,10 +53,11 @@
 <!-- Recommended way (GitHub Action) is below -->
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Dev8013/Dev8013/output/github-contribution-grid-snake.svg" 
-    alt="Snake animation" 
+  <img
+    alt="GitHub Snake"
+    src="https://raw.githubusercontent.com/Dev8013/Dev8013/output/dist/github-snake.svg"
   />
 </p>
+
 
 ---
